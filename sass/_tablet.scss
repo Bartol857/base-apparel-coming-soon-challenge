@@ -1,0 +1,12 @@
+@media (min-width: 576px) {
+    .wrapper{
+        .box{
+            padding: 4rem;
+
+            &__text {
+                padding: 2rem 0 ;
+            }
+        }
+    }
+
+}
